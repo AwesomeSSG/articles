@@ -1,3 +1,6 @@
+# RSpec, Test Double, Mock,  and Stub
+
+
 [Rspec](https://github.com/rspec/rspec-core)是ruby的测试框架之一。
 
 [Mock](http://www.mockobjects.com/)和[stub](https://en.wikipedia.org/wiki/Method_stub)都属于[Test double](http://www.martinfowler.com/bliki/TestDouble.html)，用于测试时，模拟特定的方法或者对象的值或行为。
